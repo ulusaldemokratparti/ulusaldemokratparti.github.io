@@ -2,7 +2,7 @@
 
 ulusaldemokratparti.github.io eserleri kök deposu
 
-Copyright (C) 2020, 2021, Masscollabs Services and Masif Computing Services
+Copyright (C) 2021, Ulusal Demokrat Parti üyeleri ve tüm katkıcıların hakkı vardır
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
