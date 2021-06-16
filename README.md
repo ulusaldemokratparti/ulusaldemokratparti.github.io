@@ -1,5 +1,7 @@
 # ulusaldemokratparti.github.io
 
+**Özgür Yazılım, Özgür Toplum**
+
 ulusaldemokratparti.github.io eserleri kök deposu
 
 Copyright (C) 2021, Ulusal Demokrat Parti üyeleri ve tüm katkıcıların hakkı vardır
