@@ -17,4 +17,6 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+Parti resmi https://openclipart.org/detail/329489/a%C5%9Fkistan 
+
 
